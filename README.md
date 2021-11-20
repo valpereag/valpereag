@@ -34,7 +34,7 @@
 <hr>
 
 <a href="https://github.com/valpereag">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=valpereag&show_icons=true&include_all_commits=true" alt="Valquiria's Github stats" width="90%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=valpereag&show_icons=true&include_all_commits=true" alt="Valquiria's Github stats" width="54%" />
 </a>
 <a href="https://github.com/valpereag">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valpereag&layout=compact&hide=c" width="45%" />
